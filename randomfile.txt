@@ -5,3 +5,8 @@ Master changes 12/09/19
 EDITED new branch 12/09/19
 
 Master changes 1 
+
+Master changes 12/09/19
+
+changes on old master changes whaaaaaaaaaaaaaaaaaaaaaaat!
+truncated master^1 access old version made changes
