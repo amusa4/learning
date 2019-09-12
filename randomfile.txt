@@ -5,3 +5,5 @@ Master changes 12/09/19
 EDITED new branch 12/09/19
 
 Master changes 1 
+
+Master change after rebase
